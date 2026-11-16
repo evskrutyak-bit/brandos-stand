@@ -778,6 +778,23 @@
       "has_text": true,
       "src": "output/publikaciya/paket-kirillu-2026-11-10/teksty/tg-shablon-opros.txt",
       "has_visual": false
+    },
+    {
+      "n": 33,
+      "title": "2026-11-16 · Картинки для каруселей: рисованный стиль — посмотри",
+      "platform": "Instagram",
+      "format": "Согласование",
+      "status": "ready",
+      "date": "2026-11-16",
+      "scheduled_date": "",
+      "family_key": "Профиль и упаковка",
+      "full_text": "Кирилл, здесь заготовки картинок для будущих каруселей — в рисованном стиле, ты в них персонаж. Текста на картинках нет, заголовки ляжут поверх.\n\nПосмотри и скажи: что нравится, что нет, где ты на себя не похож. Кадры с тобой — только после твоего «да».\n\n[Открыть все картинки](https://evskrutyak-bit.github.io/brandos-stand/kirill-masla-centr-725a64/kartinki/)",
+      "full_text_chars": 361,
+      "body_preview": "Кирилл, здесь заготовки картинок для будущих каруселей — в рисованном стиле, ты в них персонаж. Текста на картинках нет, заголовки ляжут поверх.",
+      "has_text": true,
+      "visual_src": "assets/kirill-risovannyy/list-b.jpg",
+      "src": "output/visuals/pul-2026-11-09/LIST-PROSMOTRA.html",
+      "has_visual": true
     }
   ],
   "content_families": [
